@@ -24,7 +24,7 @@ and
 - [Unfollow Everything](https://github.com/awesome-letters-from-facebook/awesome-letters-from-facebook#unfollow-everything) -
   automates actions on Facebook, including the mass following and unfollowing of Friends, Pages, and Groups. 🔥
 
-- [Swipe for Facebook (Simple Social Browser)](https://github.com/awesome-letters-from-facebook/awesome-letters-from-facebook#swipe-for-facebook-and-simple-social-browser) -
+- [Swipe for Facebook (Simple Social Browser)](https://github.com/awesome-letters-from-facebook/awesome-letters-from-facebook#swipe-for-facebook-simple-social-browser) -
   includes access to social networks without the need to install their battery-intensive apps. 🚀
 
 - [AlgorithmWatch](https://github.com/awesome-letters-from-facebook/awesome-letters-from-facebook#algorithmwatch) -
