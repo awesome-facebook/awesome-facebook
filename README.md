@@ -1,16 +1,18 @@
 
 
 
-# 😎 Awesome Facebook 😎 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Facebook [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-🚀 A
-[list of awesome](https://github.com/sindresorhus/awesome/blob/main/awesome.md)(😎)
-Facebook ecosystems. 🔥 Facebook builds awesome(😎) technologies that help awesome(😎) people
-[connect with friends and family](https://firebot-prod-media.s3.amazonaws.com/email-attachments/9ceab4da-d016-4524-bffc-87519d5e2cce/Barinsta_-_C26D.pdf),
-[find communities](https://github.com/austinhuang0131/austinhuang0131/issues/2),
-and
+🔥 A
+[list of awesome](https://github.com/sindresorhus/awesome/blob/main/awesome.md)
+Facebook ecosystems. ✨ Facebook builds awesome technologies that help people
+[connect with friends and family](https://firebot-prod-media.s3.amazonaws.com/email-attachments/9ceab4da-d016-4524-bffc-87519d5e2cce/Barinsta_-_C26D.pdf)
+❤️,
+[find communities](https://github.com/austinhuang0131/austinhuang0131/issues/2)
+👪, and
 [grow businesses](https://austinhuang.me/barinsta.html).
-❤️❤️❤️
+🚀🚀🚀
+
 
 - [Friendly Social Browser](https://github.com/awesome-letters-from-facebook/awesome-letters-from-facebook#friendly-social-browser) -
   is an alternative browser available for Apple iOS and Google Android that allows users to access Facebook’s website. 🚀
